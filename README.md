@@ -2,6 +2,8 @@
 
 A Hubot script for dumping the contents of the brain.
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140906/20140906173944.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-stdout-brain.git
